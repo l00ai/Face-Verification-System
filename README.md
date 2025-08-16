@@ -16,10 +16,11 @@ The project includes a **FastAPI backend** powered by DeepFace and a **Flutter m
 * Sends both images to the backend for verification.
 * Displays verification result, similarity percentage, and matching distance.
 
+# 📱 Home Screen
 
 ![Home Screen](./screenshots/home.png)
 
-# ⚙️ Backend (Node.js + SQL Server)
+# 📱 Rsult Screen
 
 ![API Screenshot](./screenshots/result.png)
 
